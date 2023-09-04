@@ -34,7 +34,7 @@ Once your PR gets the green light, it will be merged with the main codebase, mak
 
 ## Licensing
 
-By contributing to the Hangman Game, you concur that your contributions will fall under the same MIT License governing the project.
+By contributing to the Hangman Game, you concur that your contributions will fall under the same [MIT License](LICENSE) governing the project.
 
 ## A Special Thank You
 
